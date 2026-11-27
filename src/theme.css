@@ -1,0 +1,14 @@
+@theme{
+  --color-primary: #2563eb;
+  --color-secondary: #64748b;
+  --color-background: #f8fafc;
+  --color-surface: #ffffff;
+  --color-text: #0f172a;
+
+  --font-family-sans: "Inter", sans-serif;
+
+  --spacing-section: 4rem;
+
+  --radius-card: 0.75rem;
+  --radius-button: 0.5rem;
+}
